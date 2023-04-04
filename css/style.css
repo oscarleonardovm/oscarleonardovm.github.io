@@ -7,22 +7,8 @@
 * {
 	margin:0 auto;
 }
-@font-face {
- font-family: 'helvetica_ce_55_romanregular';
- src: url('../fonts/helvetica_neue_ce_55_roman-webfont.eot');
- src: url('../fonts/helvetica_neue_ce_55_roman-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/helvetica_neue_ce_55_roman-webfont.woff2') format('woff2'), url('../fonts/helvetica_neue_ce_55_roman-webfont.woff') format('woff'), url('../fonts/helvetica_neue_ce_55_roman-webfont.ttf') format('truetype'), url('../fonts/helvetica_neue_ce_55_roman-webfont.svg#helvetica_ce_55_romanregular') format('svg');
- font-weight: normal;
- font-style: normal;
-}
-@font-face {
- font-family: 'open_sansregular';
- src: url('../fonts/opensans-regular-webfont.eot');
- src: url('../fonts/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/opensans-regular-webfont.woff2') format('woff2'), url('../fonts/opensans-regular-webfont.woff') format('woff'), url('../fonts/opensans-regular-webfont.ttf') format('truetype'), url('../fonts/opensans-regular-webfont.svg#open_sansregular') format('svg');
- font-weight: normal;
- font-style: normal;
-}
 body {
-	font-family: 'helvetica_ce_55_romanregular';
+	font-family: 'Lato', sans-serif;
 }
 /*for-section-text-start-here*/
 ::selection {
@@ -129,10 +115,10 @@ p {
 	color:#666;
 	font-weight:bolder;
 	line-height:25px;
-	font-family: 'open_sansregular';
+	font-family: 'Open Sans', sans-serif;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
- font-family: 'helvetica_ce_55_romanregular';
+ font-family: 'Lato', sans-serif;
 }
 h1 {
 	color:#fff;
@@ -407,7 +393,8 @@ ul.nav li.active a:before {
 	text-align:center;
 }
 .heading h2 {
-	font-family: 'helvetica_ce_55_romanregular';
+	font-family: 'Lato', sans-serif;
+	;
 }
 .heading p {
 	padding:20px 0px;
