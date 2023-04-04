@@ -561,6 +561,13 @@ ul.nav li.active a:before {
 	border-color:transparent;
 	border-right: 1px solid #e0e0e0;
 }
+h1.lato {
+	font-family: 'Abhaya Libre', serif;
+}
+p.feat-sec {
+	padding-top:10px;
+	font-size: 18px;
+}
 #features p.feat-sec-1 {
 	padding-top:10px;
 	font-size: 18px;
@@ -1066,7 +1073,10 @@ textarea.form-control {
 #footer-down {
 	position:relative;
 	top:30px;
+	padding-top:30px;
+	padding-bottom:30px;
 	text-align:center;
+	background: #022D60 !important;
 }
 #footer-down h2 {
 	color:#444;
@@ -1085,6 +1095,10 @@ textarea.form-control {
 	width:50px;
 	border-radius:50px;
 	padding:25%;
+}
+#footer-down ul li.whatsapp i.fa:hover {
+	color:#3e983b;
+	border:2px solid #3e983b;
 }
 #footer-down ul li.facebook i.fa:hover {
 	color:#3b5998;
