@@ -388,6 +388,7 @@ ul.nav li.active a:before {
 /*About-stylesheets-include-here*/
 #about {
 	padding:3% 0%;
+	background-color: #f8f8f8;
 }
 #about .heading {
 	text-align:center;
