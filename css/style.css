@@ -4,8 +4,8 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
 /* 
-    Created on : 11/12/2015, 03:20:53 PM
-    Author     : Jhon Ramirez (cruxmiky.com)
+    Created on : 08/07/2023, 03:20:53 PM
+    Author     : Oscar Vanegas - Nelson López
 */
 
 /* CSS Document */
@@ -17,7 +17,7 @@ h3 {
 }
 #grueso #node-60 em {
 	padding-left:10px;
-	color:#88ab0c;
+	color:FF0000;
 }
 #grueso #node-60.node p {line-height:1em;}
 /* globales */
@@ -34,7 +34,7 @@ body {
 	font-size:1em;
 	line-height:1.3em;
 	color:#3E4729;
-	background-color:#eff2dc;
+	background-color:#FF0000;
 	background-repeat:no-repeat;
 	background-position:top right;
 	background-attachment:fixed;
@@ -52,8 +52,8 @@ a {
 	color:#88ab0c;
 	outline:none;
 }
-a:visited {color:#88ab0c;}
-a:hover {color:#eb8906;}
+a:visited {color:#BEFFBA;}
+a:hover {color:#A5E1A1;}
 a.placeholder {
 	cursor: pointer;
 	cursor: hand;

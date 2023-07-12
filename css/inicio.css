@@ -4,26 +4,26 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
 /* 
-    Created on : 11/12/2015, 08:22:59 AM
-    Author     : Jhon Ramirez 
+    Created on : 08/07/2015, 08:22:59 AM
+    Author     : Oscar Leonardo Vanegas - Nelson López Herrera
 */
 
 /* eventos --------------------------------------------------------------------------------------------------------------*/
 /* vista en grid */
 .front #grueso .block {margin-bottom:10px;}
 .front #grueso .block-block {
-	border-bottom:1px solid #dae0b8;
+	border-bottom:1px solid #FF5733;
 	background-color:#fff;
-	-moz-box-shadow: 0 5px 10px -5px #dae0b8; /* firefox */
-	-webkit-box-shadow: 0 5px 10px -5px #dae0b8;
+	-moz-box-shadow: 0 5px 10px -5px #FF5733; /* firefox */
+	-webkit-box-shadow: 0 5px 10px -5px #FF5733;
 	box-shadow: 0 5px 10px -5px #dae0b8; /* chrome */
 }
 .front .grueso .block-views .view-content {
-	border-bottom:1px solid #dae0b8;
+	border-bottom:1px solid #FF5733;
 	background-color:#fff;
-	-moz-box-shadow: 0 5px 10px -5px #dae0b8; /* firefox */
-	-webkit-box-shadow: 0 5px 10px -5px #dae0b8;
-	box-shadow: 0 5px 10px -5px #dae0b8; /* chrome */
+	-moz-box-shadow: 0 5px 10px -5px #FF5733; /* firefox */
+	-webkit-box-shadow: 0 5px 10px -5px #FF5733;
+	box-shadow: 0 5px 10px -5px #FF5733; /* chrome */
 }
 .front #grueso #block-views-inicio_programas-block_1.block tr.row-2 div,
 .front #grueso #block-views-inicio_programas-block_1.block tr.row-3 div {display:none;}
@@ -41,13 +41,13 @@ and open the template in the editor.
 }
 .front .views-view-grid td, .page-ri .views-view-grid td {
 	vertical-align:top;
-	border-bottom:1px solid #EFF2DC;
+	border-bottom:1px solid #FCF302;
 	padding:0;
 }
 body.page-educacion-continuada .views-view-grid {font-size:0.9em;}
 body.page-educacion-continuada .view-inicio-educacion-continuada td {
 	vertical-align:top;
-	border-bottom:1px solid #EFF2DC;
+	border-bottom:1px solid #FCF302;
 	padding:10px;
 }
 .front .views-view-grid tr.row-last td, .page-ri .views-view-grid tr.row-last td {border-bottom:none;}
@@ -60,12 +60,12 @@ body.not-front .views-field-field-persona-destacada-imagen-fid img {
 #grueso .view-medios-notas .item-list ul a {font-weight:normal;}
 body.front #grueso .view-content li a { /* todo el texto */
 	cursor:pointer;
-	color:#596221;
+	color:#021FFC;
 }
 #grueso .view-content li:hover a { /* todo el texto */cursor:pointer;}
 #grueso .view-content li .views-field-title .field-content { /* encabezados de noticia */
 	font-weight:bold;
-	color:#596221;
+	color:#021FFC;
 }
 #grueso .view-content li {
 	padding:0 5px 10px 5px;
